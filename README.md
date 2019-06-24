@@ -1,4 +1,5 @@
 Questions feel free to ask
+babi babiba
 
 # bittrexBot
 This is an experimental bot for trading against the bittrex exchange
